@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item type="Electronics">
+    <name>TV</name>
+    <rate>20000</rate>
+    <quantity>10</quantity>
+  </item>
+  <item type="Clothing">
+    <name>Shirt</name>
+    <rate>1000</rate>
+    <quantity>50</quantity>
+  </item>
+  <item type="Grocery">
+    <name>Rice</name>
+    <rate>50</rate>
+    <quantity>100</quantity>
+  </item>
+  <item type="Books">
+    <name>Novel</name>
+    <rate>500</rate>
+    <quantity>20</quantity>
+  </item>
+  <item type="Stationery">
+    <name>Pen</name>
+    <rate>20</rate>
+    <quantity>200</quantity>
+  </item>
+</items>
